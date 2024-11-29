@@ -65,46 +65,11 @@ Data Wrangling and EDA: How to clean, analyze, and extract insights from raw dat
 Machine Learning: Building and evaluating a classification model.
 Python Proficiency: Leveraging Python libraries for efficient analysis and visualization.
 Storytelling with Data: Presenting findings in a way that’s useful to stakeholders.
-📂 Repository Structure
-css
-Copy code
-📁 ev-purchases-analysis  
-│  
-├── 📁 data  
-│   └── Raw and processed datasets.  
-│  
-├── 📁 src  
-│   └── Code for EDA and model building.  
-│  
-├── 📁 results  
-│   └── Visualizations and model performance metrics.  
-│  
-└── README.md  
-🚀 Getting Started
-Prerequisites
-Ensure you have Python 3.7+ installed.
 
-Installation
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/ev-analysis.git  
-cd ev-analysis  
-Install required libraries:
-
-bash
-Copy code
-pip install -r requirements.txt  
-Running the Project
-Explore the Jupyter Notebook for step-by-step analysis.
-Check out visualizations and model outputs in the results folder.
-🤝 Connect with Me
-This project represents my first step into data analysis and predictive modeling. If you have feedback or opportunities to share, I’d love to connect!
-
-Kiran
-
+ 
 🌐 https://www.linkedin.com/in/kiran2323/
+
 📧 Email: sai.kiran112311@gmail.com
 
 
