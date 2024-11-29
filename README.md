@@ -1,11 +1,22 @@
 Electric Vehicle Purchases Analysis 🚗⚡
+
+
+
+
+
+
 Python Project | Master’s Program | November 2023
+
+
+
 📌 Project Overview
 This project was completed as part of my Master’s coursework in Python Programming during November 2023. It explores a dataset on electric vehicle purchases in Washington State to:
 
 Identify trends and patterns in electric vehicle adoption.
 Build a machine learning model to predict Clean Alternative Fuel Vehicle (CAFV) eligibility.
 This hands-on project allowed me to apply my Python skills in data analysis, visualization, and machine learning while exploring real-world data.
+
+
 
 💾 Dataset Summary
 Entries: 159,467
@@ -17,6 +28,8 @@ Legislative District
 2020 Census Tract
 And more!
 The dataset provided rich information for analyzing consumer behavior and understanding electric vehicle trends.
+
+
 
 🛠 Methodology
 1. Exploratory Data Analysis (EDA)
